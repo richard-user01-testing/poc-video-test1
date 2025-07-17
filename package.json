@@ -1,0 +1,8 @@
+{
+  "name": "poc-video-test-app",
+  "version": "1.0.0",
+  "description": "PoC video with a vulnerable dependency",
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
